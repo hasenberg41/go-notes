@@ -1,3 +1,3 @@
 # go-notes
 
-## [Logs](/logging.md)
+## [Logs](/LOGGING.md)
